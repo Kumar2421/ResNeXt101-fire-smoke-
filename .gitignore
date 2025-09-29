@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dataset and model files
+*.pth
+*.pt
+*.pkl
+*.h5
+*.hdf5
+*.npy
+*.npz
+
+# Training outputs and logs
+runs/
+logs/
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Local development environment files
+.env
+.env.local
+
+# Dataset directories (uncomment if you don't want to track dataset files)
+fire-and-smoke-1/
+fire-and-smoke-6/
+data/
+datasets/
