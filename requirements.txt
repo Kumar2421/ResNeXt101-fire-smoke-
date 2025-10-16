@@ -1,0 +1,32 @@
+# Core PyTorch packages with CUDA 12 support
+torch
+torchvision
+torchaudio
+
+# Computer Vision and Image Processing
+opencv-python
+Pillow
+albumentations
+
+# Data Science and Numerical Computing
+numpy
+pandas
+
+# Visualization and Plotting
+matplotlib
+seaborn
+tensorboard
+
+# Progress Bars and Utilities
+tqdm
+
+# COCO Dataset Tools
+pycocotools
+
+# Additional dependencies
+scikit-learn
+scipy
+# Optional: For better performance with CUDA
+# Uncomment if needed
+# nvidia-ml-py3
+# cupy-cuda12x

@@ -1,0 +1,13 @@
+{
+    "start_time": "2025-10-07 10:29:57",
+    "log_dir": "runs/run_20251007_102957_20251007_102957",
+    "model": "EnhancedFasterRCNN",
+    "backbone": "ResNeXt101-32x8d-FPN",
+    "batch_size": 4,
+    "learning_rate": 0.005,
+    "num_epochs": 24,
+    "optimizer": "SGD",
+    "momentum": 0.9,
+    "weight_decay": 0.0005,
+    "image_size": 640
+}
